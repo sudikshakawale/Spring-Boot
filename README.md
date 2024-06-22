@@ -10,7 +10,7 @@
 * It is used to ****stand-alon** spring-based** ****application****  ****that you can just run becuse it needs minimal spring configuration.****
 
 
-   ****Spring       +    Embedded     _      XML<bean>     =    Spring  
-  framework****        ****HTTP                #configuration      #Boot****
-                      ****SERVER                #or @ confi****
+   ****Spring + Embedded     _      XML<bean>     =    Spring  
+  framework****  ****HTTP             configuration      Boot****
+                      ****SERVER     or @ confi****
                       ****(Tomcat,Jetty)****

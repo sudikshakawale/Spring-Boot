@@ -1,5 +1,5 @@
 # Spring-Boot
-#What is Spring Boot?
+__****What is Spring Boot?****__
 * Spring Boot is a ****Java Framework that makes it easier to create**** and ****run Java Application.****
 * It ****simplifies the configuration**** and ****setup process , allowing developers to focus more on writing code for their application.****
 * ****Is open-source Java Framework used to create a Micro service.****
@@ -13,4 +13,9 @@
    ****Spring + Embedded     _      XML<bean>     =    Spring  
   framework****  ****HTTP             configuration      Boot****
                       ****SERVER     or @ confi****
+1.It makes speed fast in development speedup development / It make 80% of configuration automaticlly.
+2.****Opinionated Default- Automatically Configure**** (****It provide too much things in default. We cam changed accordingly / But It helps then we cannot change them.**** )
+3.It is ****scan the class path**** and ****find the dependency it will automatically configure the things.****
+
+
 

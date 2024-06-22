@@ -14,5 +14,3 @@
   framework****  ****HTTP             configuration      Boot****
                       ****SERVER     or @ confi****
 
-
-                   (Tomcat,Jetty)

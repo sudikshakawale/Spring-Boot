@@ -18,4 +18,12 @@ __****What is Spring Boot?****__
 3.It is ****scan the class path**** and ****find the dependency it will automatically configure the things.****
 
 
+****Advantages****
+1. it ****create stand-alon spring application**** that can be started using ****JAVA-JAR(file)****
+2. Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)
+3. Provide ****Opinionated starter depencies**** to simplify you ****build configuration****
+4. ****Automatically configure**** ****spring and 3rd party libraries whenever possible.****
+5. Provide ****production-ready features**** such as ****metrics, health checks and externalized cofiguration****
+6. ****Absolutely no code generation**** and ****no requirement for XML configuration.****
+
 

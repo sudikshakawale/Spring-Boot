@@ -13,6 +13,8 @@ __****What is Spring Boot?****__
    ****Spring + Embedded     _      XML<bean>     =    Spring  
   framework****  ****HTTP             configuration      Boot****
                       ****SERVER     or @ confi****
+
+  
 1.It makes speed fast in development speedup development / It make 80% of configuration automaticlly.
   
 2.****Opinionated Default- Automatically Configure**** (****It provide too much things in default. We cam changed accordingly / But It helps then we cannot change them.**** )

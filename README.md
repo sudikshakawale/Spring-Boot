@@ -29,5 +29,10 @@ __****What is Spring Boot?****__
 4. ****Automatically configure**** ****spring and 3rd party libraries whenever possible.****
 5. Provide ****production-ready features**** such as ****metrics, health checks and externalized cofiguration****
 6. ****Absolutely no code generation**** and ****no requirement for XML configuration.****
-
+   
+****Starter POP**** Is basically a ****project object model**** so basically we know Maven a little use here.
+*All dependencies we add that start with=*
+****Spring-boot-starter-web****
+*If we have to put JP , then here we have*  ****spring-boot-starter-data-jpa****
+ *there is no hard limit to the dependencies.*
 

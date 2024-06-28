@@ -18,7 +18,7 @@ __****What is Spring Boot?****__
                       ****SERVER     or @ confi****
 
   
-1.*It makes speed fast in development speedup development / It make 80% of configuration automaticlly.*
+1.*It ****makes speed fast in development speedup development / It make 80% of configuration automaticlly.*****
   
 2.*****Opinionated Default- Automatically Configure**** (****It provide too much things in default. We cam changed accordingly / But It helps then we cannot change them.**** )*
 
@@ -27,7 +27,7 @@ __****What is Spring Boot?****__
 
 ****Advantages****
 1. it ****create stand-alon spring application**** that can be started using ****JAVA-JAR(file)****
-2. Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)
+2. ****Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)****
 3. Provide ****Opinionated starter depencies**** to simplify you ****build configuration****
 4. ****Automatically configure**** ****spring and 3rd party libraries whenever possible.****
 5. Provide ****production-ready features**** such as ****metrics, health checks and externalized cofiguration****
@@ -49,14 +49,14 @@ dependencies _______. __________ _____________
 .Jar
 
 ****Features****
-Core technologies: dependency injection, events, resources, i18n, validation, data binding, type conversion, SpEL, AOP.
+****Core technologies:**** dependency injection, events, resources, i18n, validation, data binding, type conversion, SpEL, AOP.
 
-Testing: mock objects, TestContext framework, Spring MVC Test, WebTestClient.
+****Testing:**** mock objects, TestContext framework, Spring MVC Test, WebTestClient.
 
-Data Access: transactions, DAO support, JDBC, ORM, Marshalling XML.
+****Data Access:**** transactions, DAO support, JDBC, ORM, Marshalling XML.
 
 Spring MVC and Spring WebFlux web frameworks.
 
-Integration: remoting, JMS, JCA, JMX, email, tasks, scheduling, cache and observability.
+****Integration:**** remoting, JMS, JCA, JMX, email, tasks, scheduling, cache and observability.
 
-Languages: Kotlin, Groovy, dynamic languages.
+****Languages:**** Kotlin, Groovy, dynamic languages.
